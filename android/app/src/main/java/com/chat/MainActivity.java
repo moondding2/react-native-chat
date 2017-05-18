@@ -1,6 +1,11 @@
 package com.chat;
 
 import com.facebook.react.ReactActivity;
+//import com.oblador.vectoricons.VectorIconsPackage;
+import com.dieam.reactnativepushnotification.ReactNativePushNotificationPackage;
+//import com.reactnativenavigation.NavigationReactPackage;
+// import com.oblador.vectoricons.VectorIconsPackage;
+// import com.reactnativenavigation.NavigationReactPackage;
 
 public class MainActivity extends ReactActivity {
 
